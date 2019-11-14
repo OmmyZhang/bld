@@ -1,5 +1,8 @@
 # bld
 辩论队积分系统
 
-## 写给秦书记的部署指南
-待续..
+## 部署指南
+
+### requirment
++ django
++ pypinyin
